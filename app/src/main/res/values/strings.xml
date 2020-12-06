@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string-array name="carmodels">
+        <item>Nissan</item>
+        <item>Toyota</item>
+        <item>Mazda</item>
+        <item>BMW</item>
+        <item>Honda</item>
+    </string-array>
+</resources>
